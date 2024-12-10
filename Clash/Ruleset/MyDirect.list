@@ -1,0 +1,20 @@
+# MyDirect
+# Port
+DST-PORT,22
+
+# Speedtest
+DOMAIN-SUFFIX,speedtest.net
+
+# Cloudflare
+DOMAIN-SUFFIX,pages.dev
+
+# oracle
+DOMAIN-KEYWORD,oracle
+DOMAIN-SUFFIX,oracle.com
+
+# Others  
+DOMAIN-SUFFIX,us.kg
+DOMAIN-SUFFIX,pp.ua
+DOMAIN-SUFFIX,cc.ua
+DOMAIN-SUFFIX,eu.org
+DOMAIN-SUFFIX,shodan.io
